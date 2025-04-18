@@ -1,5 +1,5 @@
 {
-  "name": "worker-name",
+  "name": "astro-http",
   "compatibility_date": "2025-04-18",
   "assets": {
     "directory": "./dist"
